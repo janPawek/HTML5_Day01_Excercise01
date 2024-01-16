@@ -7,7 +7,7 @@
 </head>
 <body>
     <img height="100" src="./img/franki.jpeg" alt="some plants">
-<pre>LyricsLyrics
+<pre>Lyrics
     Fly me to the moon
     Let me play among the stars
     Let me see what spring is like on
