@@ -1,33 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <img height="100" src="./img/franki.jpeg" alt="some plants">
-<pre>Lyrics
-    Fly me to the moon
-    Let me play among the stars
-    Let me see what spring is like on
-    A-Jupiter and Mars
-    In other words, hold my hand
-    In other words, baby, kiss me
-    Fill my heart with song and let me sing forevermore
+Killing Eve is a British spy thriller television series, produced in the United Kingdom by Sid Gentle Films for BBC America and BBC Three. The series follows Eve Polastri (Sandra Oh), a British intelligence investigator tasked with capturing psychopathic assassin Villanelle (Jodie Comer). As the chase progresses, the two develop a mutual obsession. Based on the Villanelle novel series by Luke Jennings, each of the show's series is led by a different female head writer. The first series had Phoebe Waller-Bridge as the head writer, the second series Emerald Fennell, the third series Suzanne Heathcote and the fourth series Laura Neal.
 
-    You are all I long for
-    All I worship and adore
-    In other words, please be true
-    In other words, I love you
-    Fill my heart with song
-    Let me sing forevermore
-    You are all I long for, all I worship and adore
+The first series premiered on BBC America on 8 April 2018, and on BBC iPlayer on 15 September 2018 through BBC Three. The third series premiered on 12 April 2020 for BBC America, and on 13 April 2020 for BBC iPlayer,[3] and concluded on 31 May 2020. The fourth (and final) series[4] premiered on 27 February 2022 on BBC America, 28 February 2022 on BBC iPlayer and 5 March 2022 on BBC One and concluded on 17 April 2022.[5]
 
-    In other words, please be true
-    In other words
-    In other words
-    I love you</pre>
-    <a href="/">home</a>
-</body>
-</html>
+The first two series were critically acclaimed, but the last two series generated a more mixed reception. The fourth series and the final episode, in particular, drew significant backlash from critics and audiences. The show broke weekly ratings increase records, and received several accolades, including British Academy Television Award for Best Drama Series. Both Oh and Comer were praised for their performances, winning the Golden Globe Award for Best Actress – Television Series Drama and the Primetime Emmy Award for Outstanding Lead Actress in a Drama Series, respectively. Comer and Fiona Shaw have also received British Academy Television Awards for their performances.
